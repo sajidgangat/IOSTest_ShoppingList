@@ -1,11 +1,13 @@
 //
-//  ViewController.swift
-//  ShopingList300921136
 //
-//  Created by Sajid gangat on 2017-02-21.
+//
+//
+//  Created by Sajid gangat on 2017-02-14.
 //  Copyright © 2017 Sajid. All rights reserved.
+// SAJID GANGAT
+// Student ID :300921136
 //
-
+//
 import UIKit
 import Firebase
 import FirebaseDatabase

@@ -1,6 +1,6 @@
 //
 //  AddList.swift
-//  ToDoList_300921136
+//  
 //
 //  Created by Sajid gangat on 2017-02-14.
 //  Copyright © 2017 Sajid. All rights reserved.
@@ -32,7 +32,7 @@ class AddList: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-    
+    //all data added in the firebase
     @IBAction func Addlist(_ sender: Any) {
         let dateFormatter = DateFormatter()
         dateFormatter.dateFormat = "dd/MM/yyyy"
